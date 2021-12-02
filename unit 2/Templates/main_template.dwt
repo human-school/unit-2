@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head head="@@(head)@@">
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="head" type="text" value="" -->
+</head>
+<link rel='icon' href='/images/iss.ico' type='image/x-icon'/ >
+<body bgcolor =#33FFDA>
+	
+<table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td width="" height="104"><a href="../index.php"><img src="../images/ERROR 404VACATION NOT FOUND (200 x 200 px).png" width="150" height="150" alt=""/></a></td>
+      <td width="93%"><p>&nbsp;</p></td>
+    </tr>
+    <tr>
+      <td height="536"valign="top"><a href="../login.php"><img src="../images/Add a heading (1).png" width="150" height="40" alt=""/></a><b></b>
+        <a href="../about_iss_in_blackhole.php"><img src="../images/about us.png" width="150" height="40" alt=""/></a>
+        <a href="../price.php"><img src="../images/Prices (1).png" width="150" height="40" alt=""/></a>
+      <td align="left" valign="top"><!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable --></td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>

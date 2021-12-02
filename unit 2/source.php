@@ -22,7 +22,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td width="%" height=""><a href="logout.php"><img src="images/ERROR%20404VACATION%20NOT%20FOUND%20(200%20x%20200%20px).png" width="150" height="150" alt=""/></a></td>
+      <td width="%" height=""><a href="logout.php"><img src="images/ERROR%20404VACATION%20NOT%20FOUND%20(200%20x%20200%20px).png" width="150" height="144" alt=""/></a></td>
       <td width="93%"><a href="https://github.com/this-is-for-a-school-thing/unit-2"><img src="images/source%20code.png" width="1391" height="144" alt=""/></a></td>
     </tr>
     <tr>

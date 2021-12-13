@@ -23,7 +23,7 @@
         <a href="about_iss_in_blackhole.php"><img src="images/about%20us.png" width="150" height="40" alt=""/></a>
         <a href="price.php"><img src="images/Prices%20(1).png" width="150" height="40" alt=""/></a>
       <td align="left" valign="top"><!-- InstanceBeginEditable name="content" -->
-      <p>while this might not be a cheap stay it will be a once in a life time opportunity with each night costing 3.6 billion dollars <span style="font-size: xx-small">times 11</span></p>
+      <p>while this might not be a cheap stay it will be a once in a life time opportunity with each night costing 36 billion dollars <span style="font-size: xx-small">times 11</span></p>
       <p><a href="photos inside the iss.php">clcik here for photos of inside</a></p>
       <p><img src="images/Untitled-1 (1).png" width="1386" height="751" alt=""/></p>
       <!-- InstanceEndEditable --></td>

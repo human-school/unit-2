@@ -20,8 +20,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     //do not edit the variables below
     var image_1=new Image()
     var image_2=new Image()
+
+	
     image_1.src=toggleimage[0]
     image_2.src=toggleimage[1]
+
     var i_image=0
 
     function testloading() {
@@ -52,7 +55,8 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
       <td width="93%"><a href="https://github.com/this-is-for-a-school-thing/unit-2"><img src="images/source%20code.png" width="100%" height="144" alt=""/></a></td>
     </tr>
     <tr>
-      <td height="742" valign="top"><p><a href="logout.php"><img src="images/Sign%20Out%20Of%20Your%20Account-1.png" width="150" height="40" alt=""/></a></p>
+      <td height="742" valign="top"><p><d></d>
+        <a href="logout.php"><img src="images/Sign%20Out%20Of%20Your%20Account-1.png" width="150" height="40" alt=""/></a></p>
       <p><a href="reset-password.php"><img src="images/reset.png" width="150" height="40" alt=""/></a></p></td>
       <td><!-- InstanceBeginEditable name="EditRegion1" -->
         <table width="100%" border="0">
@@ -84,7 +88,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 			    
 	            <p><img src="videos/rick-ashley-dance.gif" width="200" height="135" alt=""/></p>
 	            <p>&nbsp;   
-			<a href="javascript:toggle()"><img name="togglepicture" src="/images/2.jpg" border="0"></a>
+			<a href="javascript:toggle()"><img src="/images/1.jpg" name="togglepicture" width=150" height="40" border="0"></a>
 		
 	
 </p>	            </tr>

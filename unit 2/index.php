@@ -23,7 +23,8 @@
         <a href="about_iss_in_blackhole.php"><img src="images/about%20us.png" width="150" height="40" alt=""/></a>
         <a href="price.php"><img src="images/Prices%20(1).png" width="150" height="40" alt=""/></a>
       <td align="left" valign="top"><!-- InstanceBeginEditable name="content" -->
-        <p>content </p>
+        <p>PLEASE book a stay we are VERY poor WE put the ISS in A BLACK HOLE like come on now PLEASE I IM BEGGING YOU<span style="font-size: xx-small"> if you dont book ill take your kids</span></p>
+        <p><img src="images/Untitled-1 (1).png" width="1386" height="751" alt=""/></p>
       <!-- InstanceEndEditable --></td>
     </tr>
   </tbody>

@@ -19,9 +19,11 @@
       <td width="93%"><p><a href="https://github.com/this-is-for-a-school-thing/unit-2"><img src="images/source%20code.png" width="100%" height="144" alt=""/></a></p></td>
     </tr>
     <tr>
-      <td height="536"valign="top"><a href="login.php"><img src="images/Add%20a%20heading%20(1).png" width="150" height="40" alt=""/></a><b></b>
-        <a href="about_iss_in_blackhole.php"><img src="images/about%20us.png" width="150" height="40" alt=""/></a>
-        <a href="price.php"><img src="images/Prices%20(1).png" width="150" height="40" alt=""/></a>
+      <td height="536"valign="top"><p><a href="index.php"><img src="images/home%20(2).png" width="150" height="40" alt=""/></a></p>
+        <p><a href="login.php"><img src="images/Add%20a%20heading%20(1).png" width="150" height="40" alt=""/></a></p>
+        <p><a href="about_iss_in_blackhole.php"><img src="images/about%20us.png" width="150" height="40" alt=""/></a></p>
+        <p><a href="price.php"><img src="images/Prices%20(1).png" width="150" height="40" alt=""/></a></p>
+        <p>&nbsp;</p>
       <td align="left" valign="top"><!-- InstanceBeginEditable name="content" --><img src="images/DO DIS-1.png" width="1385" height="809" alt=""/><!-- InstanceEndEditable --></td>
     </tr>
   </tbody>

@@ -52,7 +52,7 @@ function myHref(){
             padding: 20px;
         }
     </style>
-<h1 class="my-5">Hi, <b><?php echo htmlspecialchars($_SESSION["username"]); ?></b>. Welcome to our site.</h1>
+<h1 class="my-5">loged in user: <b><?php echo htmlspecialchars($_SESSION["username"]); ?></b></h1>
     <p>
         
         <a href="reset-password.php" class="btn btn-danger ml-3"><a href="logout.php" class="btn btn-danger ml-3"></a></td>
@@ -62,9 +62,9 @@ function myHref(){
 				
 				  <p>------------------------(break line)</p>
 				  <p>(put cool *things* here)&nbsp;</p>
-				  <p>if you dumb make a account here. --> <a href="register.php">Sign up</a>.</p>
+			    <p>if you dumb make a account here. --> <a href="register.php">Sign up</a>.</p>
 			    
-	            <p><img src="videos/rick-ashley-dance.gif" width="200" height="135" alt=""/></p>
+	            <p><img src="images/banana-potassium.gif" width="256" height="256" alt=""/></p>
 	            <p>&nbsp;   
 			
 				    <a id="change" href="http://unthiswasfree.chickenkiller.com/index.php"></a>

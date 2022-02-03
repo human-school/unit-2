@@ -3,7 +3,7 @@
 <head head="">
 <meta charset="utf-8">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>home</title>
+<title>Untitled Document</title>
 <!-- InstanceEndEditable -->
 <!-- InstanceBeginEditable name="head" -->
 <!-- InstanceEndEditable -->
@@ -25,8 +25,9 @@
         <p><a href="price.php"><img src="images/Prices%20(2).png" width="150" height="40" alt=""/></a></p>
         <p><a href="hosting.php"><img src="images/hosting%20(1).png" width="150" height="40" alt=""/></a></p>
       <td align="left" valign="top"><!-- InstanceBeginEditable name="content" -->
-        <p>PLEASE book a stay we are VERY poor WE put the ISS in A BLACK HOLE like come on now PLEASE I IM BEGGING YOU<span style="font-size: xx-small"> if you dont book ill take your kids</span></p>
-        <p><img src="images/Untitled-1 (1).png" width="1386" height="751" alt=""/></p>
+      <p>you might bewondering what is this hosted on well its on a rasberry pi a litle computer about the size of a credit card that runs a linux based os called raspbian with apache running the web server, with md_mysql as a database</p>
+      <p>&nbsp;</p>
+      <p><img src="images/download.png" alt=""/></p>
       <!-- InstanceEndEditable --></td>
     </tr>
   </tbody>

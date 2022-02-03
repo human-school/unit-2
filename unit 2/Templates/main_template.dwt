@@ -21,9 +21,9 @@
     <tr>
       <td height="536"valign="top"><p><a href="../index.php"><img src="../images/home (2).png" width="150" height="40" alt=""/></a></p>
         <p><a href="../login.php"><img src="../images/Add a heading (1).png" width="150" height="40" alt=""/></a></p>
-        <p><a href="../about_iss_in_blackhole.php"><img src="../images/about us.png" width="150" height="40" alt=""/></a></p>
-        <p><a href="../price.php"><img src="../images/Prices (1).png" width="150" height="40" alt=""/></a></p>
-        <p>&nbsp;</p>
+        <p><a href="../about_iss_in_blackhole.php"><img src="../images/about us (1).png" width="150" height="40" alt=""/></a></p>
+        <p><a href="../price.php"><img src="../images/Prices (2).png" width="150" height="40" alt=""/></a></p>
+        <p><a href="../hosting.php"><img src="../images/hosting (1).png" width="150" height="40" alt=""/></a></p>
       <td align="left" valign="top"><!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable --></td>
     </tr>
   </tbody>

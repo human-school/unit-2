@@ -23,9 +23,10 @@
         <p><a href="login.php"><img src="images/Add%20a%20heading%20(1).png" width="150" height="40" alt=""/></a></p>
         <p><a href="about_iss_in_blackhole.php"><img src="images/about%20us%20(1).png" width="150" height="40" alt=""/></a></p>
         <p><a href="price.php"><img src="images/Prices%20(2).png" width="150" height="40" alt=""/></a></p>
-        <p><a href="hosting.php"><img src="images/hosting%20(1).png" width="150" height="40" alt=""/></a></p>
+        <p>&nbsp;</p>
       <td align="left" valign="top"><!-- InstanceBeginEditable name="content" -->
         <p>PLEASE book a stay we are VERY poor WE put the ISS in A BLACK HOLE like come on now PLEASE I IM BEGGING YOU<span style="font-size: xx-small"> if you dont book ill take your kids</span></p>
+        <p>For prices of our bookings, go to 'prices', for information about us, go to 'about us'</p>
         <p><img src="images/Untitled-1 (1).png" width="1386" height="751" alt=""/></p>
       <!-- InstanceEndEditable --></td>
     </tr>

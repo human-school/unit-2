@@ -23,7 +23,7 @@
         <p><a href="../login.php"><img src="../images/Add a heading (1).png" width="150" height="40" alt=""/></a></p>
         <p><a href="../about_iss_in_blackhole.php"><img src="../images/about us (1).png" width="150" height="40" alt=""/></a></p>
         <p><a href="../price.php"><img src="../images/Prices (2).png" width="150" height="40" alt=""/></a></p>
-        <p><a href="../hosting.php"><img src="../images/hosting (1).png" width="150" height="40" alt=""/></a></p>
+        <p>&nbsp;</p>
       <td align="left" valign="top"><!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable --></td>
     </tr>
   </tbody>

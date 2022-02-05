@@ -23,11 +23,20 @@
         <p><a href="login.php"><img src="images/Add%20a%20heading%20(1).png" width="150" height="40" alt=""/></a></p>
         <p><a href="about_iss_in_blackhole.php"><img src="images/about%20us%20(1).png" width="150" height="40" alt=""/></a></p>
         <p><a href="price.php"><img src="images/Prices%20(2).png" width="150" height="40" alt=""/></a></p>
-        <p><a href="hosting.php"><img src="images/hosting%20(1).png" width="150" height="40" alt=""/></a></p>
+        <p>&nbsp;</p>
       <td align="left" valign="top"><!-- InstanceBeginEditable name="content" -->
-      <p>while this might not be a cheap stay it will be a once in a life time opportunity with each night costing 36 billion dollars <span style="font-size: xx-small">times 11</span></p>
-      <p><a href="photos inside the iss.php">clcik here for photos of inside</a></p>
-      <p><img src="images/Untitled-1 (1).png" width="1386" height="751" alt=""/></p>
+      <p>while this might not be a cheap stay it will be a once in a life time opportunity with each night costing 36 billion dollars <span style="font-size: xx-small">times 11</span>      </p>
+      <p>Services we offer: <br>
+Luxuary	rooms	will be provided along with toiletries, food, free internet with every service. </br>
+<br>
+- A 7 day vacation in a specially made iss that will be stationed at a black hole. =</br>
+$2.772 trillion<br>
+- A 12 day vacation in a specially made iss that will be stationed at a black hole. =$4.752 trillion<br>
+- A 18 day vacation in a specially made iss that will be stationed at a black hole.</br>
+=$7.128 trillion<br>
+- A 24 day vacation in a specially made iss that will be stationed at a black hole.</br>
+      =$9.504 trillion</p>
+      <p><img src="images/Untitled-1 (1).png" width="513" height="400" alt=""/><img src="images/4499.jpg" width="431" height="400" alt=""/><img src="images/DO DIS-1.png" width="437" height="400" alt=""/></p>
       <!-- InstanceEndEditable --></td>
     </tr>
   </tbody>

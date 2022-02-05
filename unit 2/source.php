@@ -35,8 +35,9 @@ function myHref(){
     <tr>
       <td height="742" valign="top"><p><d></d>
         <a href="logout.php"><img src="images/Sign%20Out%20Of%20Your%20Account-1.png" width="150" height="40" alt=""/></a></p>
-      <p><a href="reset-password.php"><img src="images/reset.png" width="150" height="40" alt=""/></a></p></td>
-      <td><!-- InstanceBeginEditable name="EditRegion1" -->
+      <p><a href="reset-password.php"><img src="images/reset.png" width="150" height="40" alt=""/></a></p>
+      <p><a href="hosting.php"><img src="images/hosting%20(1).png" width="150" height="40" alt=""/></a></p></td>
+      <td align="left" valign="top"><!-- InstanceBeginEditable name="EditRegion1" -->
         <table width="100%" border="0">
           <tbody>
             <tr>
@@ -52,7 +53,7 @@ function myHref(){
             padding: 20px;
         }
     </style>
-<h1 class="my-5">loged in user: <b><?php echo htmlspecialchars($_SESSION["username"]); ?></b></h1>
+<h1 class="my-5">logged in user: <b><?php echo htmlspecialchars($_SESSION["username"]); ?></b></h1>
     <p>
         
         <a href="reset-password.php" class="btn btn-danger ml-3"><a href="logout.php" class="btn btn-danger ml-3"></a></td>

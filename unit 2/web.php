@@ -35,8 +35,9 @@ function myHref(){
     <tr>
       <td height="742" valign="top"><p><d></d>
         <a href="logout.php"><img src="images/Sign%20Out%20Of%20Your%20Account-1.png" width="150" height="40" alt=""/></a></p>
-      <p><a href="reset-password.php"><img src="images/reset.png" width="150" height="40" alt=""/></a></p></td>
-      <td><!-- InstanceBeginEditable name="EditRegion1" -->
+      <p><a href="reset-password.php"><img src="images/reset.png" width="150" height="40" alt=""/></a></p>
+      <p><a href="hosting.php"><img src="images/hosting%20(1).png" width="150" height="40" alt=""/></a></p></td>
+      <td align="left" valign="top"><!-- InstanceBeginEditable name="EditRegion1" -->
         <p>History of the Internet:<br>
           The internet was started in the  1960&rsquo;s as a way for government scientists to share information since computers  were bulky and heavy so they couldn&rsquo;t be moved. It was called ARPANET and only  specific people from different stations and universities could access it. <br>
           In 1970, the TCP/IP protocol was  made with a connection between computers being established via ethernet cables.<br>

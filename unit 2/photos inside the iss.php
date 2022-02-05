@@ -23,7 +23,7 @@
         <p><a href="login.php"><img src="images/Add%20a%20heading%20(1).png" width="150" height="40" alt=""/></a></p>
         <p><a href="about_iss_in_blackhole.php"><img src="images/about%20us%20(1).png" width="150" height="40" alt=""/></a></p>
         <p><a href="price.php"><img src="images/Prices%20(2).png" width="150" height="40" alt=""/></a></p>
-        <p><a href="hosting.php"><img src="images/hosting%20(1).png" width="150" height="40" alt=""/></a></p>
+        <p>&nbsp;</p>
       <td align="left" valign="top"><!-- InstanceBeginEditable name="content" --><img src="images/DO DIS-1.png" width="1385" height="809" alt=""/><!-- InstanceEndEditable --></td>
     </tr>
   </tbody>

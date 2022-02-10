@@ -36,9 +36,11 @@ function myHref(){
         <a href="logout.php"><img src="images/Sign%20Out%20Of%20Your%20Account-1.png" width="150" height="40" alt=""/></a></p>
       <p><a href="reset-password.php"><img src="images/reset.png" width="150" height="40" alt=""/></a></p>
       <p><a href="hosting.php"><img src="images/hosting%20(1).png" width="150" height="40" alt=""/></a></p></td>
-      <td align="left" valign="top"><!-- InstanceBeginEditable name="EditRegion1" --><p>you might bewondering what is this hosted on well its on a rasberry pi a litle computer about the size of a credit card that runs a linux based os called raspbian with apache running the web server, with md_mysql as a database</p>
-      <p>&nbsp;</p>
-      <p><img src="images/download.png" alt=""/></p><!-- InstanceEndEditable --></td>
+      <td align="left" valign="top"><!-- InstanceBeginEditable name="EditRegion1" -->
+      <p>You might be wondering what is this hosted on well its on a rasberry pi a litle computer about the size of a credit card that runs a linux based os called raspbian with apache running the web server, with md_mysql as a database.</p>
+		  <a id="2" href="https://www.marxists.org/archive/marx/works/download/pdf/Manifesto.pdf"></a>
+      <form><input type="button" onclick="myHref()" value="_"></form>
+      </p><!-- InstanceEndEditable --></td>
     </tr>
   </tbody>
 </table>

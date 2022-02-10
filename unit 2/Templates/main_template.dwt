@@ -3,11 +3,13 @@
 <head head="@@(head)@@">
 <meta charset="utf-8">
 <!-- TemplateBeginEditable name="doctitle" -->
+
 <title>Untitled Document</title>
 <!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 <!-- TemplateParam name="head" type="text" value="" -->
+
 </head>
 <link rel='icon' href='/images/iss.ico' type='image/x-icon'/ >
 <body>

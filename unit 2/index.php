@@ -3,11 +3,13 @@
 <head head="">
 <meta charset="utf-8">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>home</title>
+
+<title>Untitled Document</title>
 <!-- InstanceEndEditable -->
 <!-- InstanceBeginEditable name="head" -->
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="head" type="text" value="" -->
+
 </head>
 <link rel='icon' href='/images/iss.ico' type='image/x-icon'/ >
 <body>

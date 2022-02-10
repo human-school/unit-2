@@ -3,11 +3,13 @@
 <head head="">
 <meta charset="utf-8">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>about us</title>
+
+<title>Untitled Document</title>
 <!-- InstanceEndEditable -->
 <!-- InstanceBeginEditable name="head" -->
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="head" type="text" value="" -->
+
 </head>
 <link rel='icon' href='/images/iss.ico' type='image/x-icon'/ >
 <body>
@@ -25,9 +27,10 @@
         <p><a href="price.php"><img src="images/Prices%20(2).png" width="150" height="40" alt=""/></a></p>
         <p>&nbsp;</p>
       <td align="left" valign="top"><!-- InstanceBeginEditable name="content" -->
-      <p>we put the internasonal space station IN A BLACK HOLE are you not impressed<span style="font-size: xx-small"> (please book a stay we are very poor from doing this</span><span style="font-size: xx-small">)</span></p>
-      <p>'404 vacation not found' was founded in 2021 as a cruise line origionally and later in 2130 we invested in rocket travel to provide tourists with the wonders of space. In 2200 we had the idea of giving tourists the once in the lifetime experience of being as close to a bblackhole as you can get, without obviously being destroyed into atoms. </p>
-      <p>For the sercies we offer, please go to prices</p>
+      <p>we put the international  space station IN A BLACK HOLE are you not impressed<span style="font-size: xx-small"> (please book a stay we are very poor from doing this</span><span style="font-size: xx-small">)</span></p>
+      <p>'404 vacation not found' was founded in 2021 as a cruise line origionally and later in 2130 we invested in rocket travel to provide tourists with the wonders of space. In 2200 we had the idea of giving tourists the once in the lifetime experience of being as close to a bblackhole as you can get, without obviously being destroyed into atoms. <span style="font-size: xx-small">this is not 100% certain</span></p>
+      <p>For the services  we offer, please go to prices      </p>
+      <p><img src="videos/ussr-soviet-union.gif" width="498" height="329" alt=""/></p>
       <!-- InstanceEndEditable --></td>
     </tr>
   </tbody>

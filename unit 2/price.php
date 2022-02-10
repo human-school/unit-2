@@ -3,11 +3,13 @@
 <head head="">
 <meta charset="utf-8">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>cost</title>
+
+<title>Untitled Document</title>
 <!-- InstanceEndEditable -->
 <!-- InstanceBeginEditable name="head" -->
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="head" type="text" value="" -->
+
 </head>
 <link rel='icon' href='/images/iss.ico' type='image/x-icon'/ >
 <body>
@@ -29,13 +31,10 @@
       <p>Services we offer: <br>
 Luxuary	rooms	will be provided along with toiletries, food, free internet with every service. </br>
 <br>
-- A 7 day vacation in a specially made iss that will be stationed at a black hole. =</br>
-$2.772 trillion<br>
+- A 7 day vacation in a specially made iss that will be stationed at a black hole. =$2.772 trillion<br>
 - A 12 day vacation in a specially made iss that will be stationed at a black hole. =$4.752 trillion<br>
-- A 18 day vacation in a specially made iss that will be stationed at a black hole.</br>
-=$7.128 trillion<br>
-- A 24 day vacation in a specially made iss that will be stationed at a black hole.</br>
-      =$9.504 trillion</p>
+- A 18 day vacation in a specially made iss that will be stationed at a black hole. =$7.128 trillion<br>
+- A 24 day vacation in a specially made iss that will be stationed at a black hole. =$9.504 trillion</p>
       <p><img src="images/Untitled-1 (1).png" width="513" height="400" alt=""/><img src="images/4499.jpg" width="431" height="400" alt=""/><img src="images/DO DIS-1.png" width="437" height="400" alt=""/></p>
       <!-- InstanceEndEditable --></td>
     </tr>
